@@ -111,21 +111,21 @@ Each subject or topic folder has the same layout:
 <topic>/
 ├── README.md                Topic overview
 ├── original-files/          Source material such as PDF, DOCX, slides and notes
-├── MD-conversion/           Markdown version of the source material
+├── markdown/                Markdown version of the source material
 └── interview-preparation/   Professional IT career topics only
     ├── README.md
     ├── original-files/
-    └── MD-conversion/
+    └── markdown/
 ```
 
 ## Contributing content
 
 1. Find the folder for your material, for example `neb/class-11/science/physics/`.
 2. Put the source file in `original-files/`.
-3. Put its Markdown version in `MD-conversion/` with the same base file name.
+3. Put its Markdown version in `markdown/` with the same base file name.
 4. Write folder names in lowercase with words joined by hyphens, like `health-and-physical-education`.
 
-A new subject or topic follows the same layout, with a `README.md`, an `original-files/` folder and an `MD-conversion/` folder.
+A new subject or topic follows the same layout, with a `README.md`, an `original-files/` folder and a `markdown/` folder.
 
 <div align="center">
 
