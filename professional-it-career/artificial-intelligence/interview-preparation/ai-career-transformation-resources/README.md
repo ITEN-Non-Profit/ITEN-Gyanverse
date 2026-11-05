@@ -30,9 +30,9 @@ Build a CV, cover letter, and LinkedIn profile using AI and mentor feedback. Thi
 
 ### YouTube Sessions
 
-- [Chapter 1: Create your first CV using AI](https://www.youtube.com/watch?v=I4XgXBVqUAU) ([workshop timestamp](https://www.youtube.com/watch?v=I4XgXBVqUAU&t=10855s))
-- [Chapter 2: Create and refine your CV, resume, or biodata with ChatGPT](https://www.youtube.com/watch?v=Uo5qp7bz1RA) ([workshop timestamp](https://www.youtube.com/watch?v=Uo5qp7bz1RA&t=9517s))
-- [Chapter 3: Write a cover letter and build a LinkedIn profile](https://www.youtube.com/watch?v=OWtl77dbSf4) ([workshop timestamp](https://www.youtube.com/watch?v=OWtl77dbSf4&t=5915s))
+- [Chapter 1: Create your first CV using AI](https://www.youtube.com/watch?v=I4XgXBVqUAU) ([workshop session recording](https://www.youtube.com/watch?v=I4XgXBVqUAU&t=10855s))
+- [Chapter 2: Create and refine your CV, resume, or biodata with ChatGPT](https://www.youtube.com/watch?v=Uo5qp7bz1RA) ([workshop session recording](https://www.youtube.com/watch?v=Uo5qp7bz1RA&t=9517s))
+- [Chapter 3: Write a cover letter and build a LinkedIn profile](https://www.youtube.com/watch?v=OWtl77dbSf4) ([workshop session recording](https://www.youtube.com/watch?v=OWtl77dbSf4&t=5915s))
 
 ### Folder
 
@@ -58,7 +58,7 @@ Prepare for HR, behavioral, technical, and scenario interviews with answer frame
 
 ### YouTube Sessions
 
-- [Part 1: Master interview practice using AI](https://www.youtube.com/watch?v=ryFFLYfMc-Q) ([workshop timestamp](https://www.youtube.com/watch?v=ryFFLYfMc-Q&t=14141s))
+- [Part 1: Master interview practice using AI](https://www.youtube.com/watch?v=ryFFLYfMc-Q) ([workshop session recording](https://www.youtube.com/watch?v=ryFFLYfMc-Q&t=14141s))
 - [Part 2: Complete interview system](https://www.youtube.com/watch?v=NeRebF12lwk)
 - [Part 3: Feedback and career roadmap](https://www.youtube.com/watch?v=Zw3-0SGfrq4)
 
