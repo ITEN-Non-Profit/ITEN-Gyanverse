@@ -11,7 +11,7 @@ IT Education Nepal (ITEN) · 2026 edition
 [Start reading](#section-1) · [Contents](#contents) · [Scenario drills](#section-5) · [Rapid revision](#section-6) · [References](#references)
 
 <p align="center">
-  <img src="assets/sysadmin-playbook-cover.png" alt="The SysAdmin Interview Playbook — original book cover" width="420">
+  <img src="../original-files/sysadmin-playbook-cover.png" alt="The SysAdmin Interview Playbook — original book cover" width="420">
 </p>
 
 <a name="contents"></a>
