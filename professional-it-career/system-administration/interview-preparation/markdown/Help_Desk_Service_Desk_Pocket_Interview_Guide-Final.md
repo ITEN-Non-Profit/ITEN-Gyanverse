@@ -2,8 +2,9 @@
 
 **Stages 1 to 5: 86 interview questions with answers, follow-ups, scenarios, and revision tools**
 
-**By Jiwan Bhattarai**  
-**IT Education Nepal - कम्प्युटर शिक्षा सबैका लागि**
+<p align="center">
+  <img src="../original-files/Help_Desk_Service_Desk_Pocket_Interview_Guide_Cover.png" alt="Help Desk and Service Desk Pocket Interview Guide — original book cover" width="420">
+</p>
 
 ***
 
